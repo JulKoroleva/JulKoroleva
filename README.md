@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Julia Koroleva](https://julkoroleva.github.io/Portfolio/).
+ ### - 👋 Hi, I’m [Julia Koroleva](https://julkoroleva.github.io/Portfolio/).
 - 👀 I am interested in `web-development`.
 - :computer: Development experience:
   - `JavaScript/TypeScript`
