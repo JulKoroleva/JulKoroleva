@@ -4,6 +4,7 @@
   - `JavaScript/TypeScript`
   - `HTML/CSS (Sass)`
   - `React/Redux` (JS/TS)
+  - `React Native`
   - `Vue/Vuex` (JS/TS)
   - `Node.js/Express`
   - `MongoDB`
