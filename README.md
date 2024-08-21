@@ -3,9 +3,10 @@
 - :computer: Development experience:
   - `JavaScript/TypeScript`
   - `HTML/CSS (Sass)`
-  - `React/Redux` (JS/TS)
+  - `React/Redux`
   - `React Native`
-  - `Vue/Vuex` (JS/TS)
+  - `Angular`
+  - `Vue/Vuex`
   - `Node.js/Express`
   - `MongoDB`
   - `Additional Skills`: 
